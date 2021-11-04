@@ -14,15 +14,21 @@ body {
 
 h3 {
   margin: 0;
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
 }
 
 h1 {
   font-size: 96px;
   text-align: center;
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
 }
 
 h2 {
   font-size: 48px;
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
 }
 
 h3 {
@@ -35,6 +41,8 @@ p {
   line-height: 1.5;
   padding: 10px;
   border-radius: 4px;
+  font-family: "Poppins", sans-serif;
+  font-weight: normal;
 }
 
 .navigation-links {
@@ -49,6 +57,8 @@ p {
   padding: 20px 15px;
   text-decoration: none;
   text-transform: capitalize;
+  font-family: "Poppins", sans-serif;
+  font-weight: normal;
 }
 
 .primary-link {
@@ -59,6 +69,8 @@ p {
   background: var(--primary-color);
   box-shadow: var(--box-shadow);
   color: white;
+  font-family: "Poppins", sans-serif;
+  font-weight: normal;
 }
 
 .secondary-link {
@@ -68,12 +80,16 @@ p {
   text-transform: capitalize;
   color: var(--primary-color);
   border: 1px solid var(--primary-color);
+  font-family: "Poppins", sans-serif;
+  font-weight: normal;
 }
 
 .homepage-link {
   color: var(--primary-color);
   text-align: center;
   display: block;
+  font-family: "Poppins", sans-serif;
+  font-weight: normal;
 }
 
 .about-paragraphs {
@@ -91,6 +107,8 @@ p {
   color: var(--primary-color);
   font-size: 28px;
   text-decoration: none;
+  font-family: "Poppins", sans-serif;
+  font-weight: normal;
 }
 
 .email-link:hover {
