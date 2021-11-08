@@ -7,7 +7,7 @@
 }
 
 body {
-  margin-top: 100px;
+  margin-top: 300px;
   font-family: var(--default-font-family);
 }
 h1,
@@ -59,7 +59,23 @@ p {
   border-radius: 4px;
   font-weight: normal;
 }
-
+.about-section h1 {
+  font-size: 64px;
+  line-height: 80px;
+}
+.about-section h2 {
+  font-size: 18px;
+  font-family: var(--default-font-family);
+}
+.about-section-content {
+  margin: 30px;
+}
+.about-section {
+  padding: 160px 20px;
+}
+.hero-picture {
+  border-radius: 20px;
+}
 .navigation-links {
   display: flex;
   margin-top: 40px;
@@ -141,7 +157,7 @@ p {
 @media (max-width: 900px) {
   h1 {
     font-size: 40px;
-    line-height: 2;
+    line-height: 56px;
   }
 
   h2 {
@@ -164,5 +180,9 @@ p {
   .project-description {
     padding: 0;
     text-align: center;
+  }
+  .about-section {
+    text-align: center;
+    padding: 0;
   }
 }
