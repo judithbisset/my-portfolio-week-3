@@ -159,6 +159,9 @@ p {
 .project-description {
   padding: 120px 60px;
 }
+.contact-section {
+  margin-top: 100px;
+}
 
 .email-link {
   display: flex;
