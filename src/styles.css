@@ -10,6 +10,20 @@ body {
   margin-top: 300px;
   font-family: var(--default-font-family);
 }
+.navbar {
+  background-color: white;
+  padding-bottom: 20px;
+}
+
+.navbar-brand {
+  font-size: 20px;
+}
+
+.nav-item {
+  font-size: 18px;
+  font-weight: 500;
+  padding-left: 30px;
+}
 h1,
 h2,
 h3,
