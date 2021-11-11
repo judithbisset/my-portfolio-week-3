@@ -194,6 +194,39 @@ footer .contact-box p {
   margin: 0;
   font-size: 18px;
 }
+.education-section h4 {
+  font-size: 20px;
+}
+
+.education-content-style {
+  border-right: 3px solid var(--secondary-color);
+}
+
+.education-header {
+  margin-bottom: 50px;
+}
+
+.graduation-icon {
+  font-size: 30px;
+}
+
+.focus-areas p {
+  line-height: 18px;
+}
+
+.skills-section .skills-header {
+  margin-bottom: 45px;
+}
+
+.skills-section,
+.certificate-section,
+.education-section {
+  margin-top: 70px;
+}
+
+.skills {
+  font-weight: 200;
+}
 
 /* Social Media links  */
 .social-media-links a {
