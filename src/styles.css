@@ -227,6 +227,11 @@ footer .contact-box p {
 .skills {
   font-weight: 200;
 }
+.coding-skills {
+  padding-top: 50px;
+  padding-bottom: 30px;
+  color: var(--primary-color);
+}
 
 /* Social Media links  */
 .social-media-links a {
