@@ -35,7 +35,12 @@ h6 {
 }
 .hero {
   text-align: center;
-  background: #f9f9fe;
+  background-image: url("src/images/liz.jpg");
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
   padding: 160px 20px;
 }
 
