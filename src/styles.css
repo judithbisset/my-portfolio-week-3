@@ -327,6 +327,8 @@ footer .contact-box p {
   }
   .hero {
     padding: 80px 20px;
+    background-image: url("images/tirol-small.jpeg");
+    max-height: 600px;
   }
   .hero h1 {
     font-size: 42px;
