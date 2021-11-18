@@ -36,7 +36,7 @@ h6 {
 .hero {
   padding-top: 100px;
   text-align: center;
-  background-image: url("images/owl.jpg");
+  background-image: url("images/tirol.jpeg");
   height: 100vh;
   width: 100vw;
   position: relative;
@@ -327,7 +327,6 @@ footer .contact-box p {
   }
   .hero {
     padding: 80px 20px;
-    background: #778899;
   }
   .hero h1 {
     font-size: 42px;
